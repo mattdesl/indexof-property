@@ -1,6 +1,6 @@
 {
   "name": "indexof-property",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "optimized indexof for a known property",
   "main": "index.js",
   "license": "MIT",
