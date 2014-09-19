@@ -26,6 +26,8 @@ console.log( indexOf(list, 'blah') )
 console.log( indexOf(list, 'beep', 3) )
 ```
 
+The function compiles with dot notation unless the property name requires square brackets (e.g. if you are searching for `"border-radius"`).
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/indexof-property.png)](https://nodei.co/npm/indexof-property/)
