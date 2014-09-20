@@ -1,12 +1,11 @@
 {
   "name": "indexof-property",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "optimized indexof for a known property",
   "main": "index.js",
   "license": "MIT",
   "author": "Matt DesLauriers <dave.des@gmail.com>",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "~2.13.2"
   },
