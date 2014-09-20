@@ -26,7 +26,7 @@ console.log( indexOf(list, 'blah') )
 console.log( indexOf(list, 'beep', 3) )
 ```
 
-The function compiles with dot notation unless the property name requires square brackets (e.g. if you are searching for `"border-radius"`).
+The function compiles with bracket notation to support unusual property names, e.g. `"border-radius"`.
 
 ## Usage
 

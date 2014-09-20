@@ -27,7 +27,7 @@ test('should find index', function(t) {
 
 	//ensures square bracket where necessary
 	var indexof2 = compile('long-name')
-	t.equal( indexof2(list, 'test'), 4, 'square bracket notation when needed' )
+	t.equal( indexof2(list, 'test'), 4, 'square bracket notation works too' )
 
 	t.end()
 })
